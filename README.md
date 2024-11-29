@@ -141,18 +141,8 @@ The submission file must contain predictions for each `id` in the test set, with
 
 ---
 
-## **Future Work**
-
-- Experiment with additional advanced feature engineering techniques.
-- Explore ensemble methods to combine the strengths of multiple models.
-- Investigate the impact of incorporating the original **Steel Plates Faults dataset** from UCI.
-
----
-
 ## **Conclusion**
 
 This project demonstrates a complete machine learning pipeline for defect detection in steel plates. Through careful preprocessing, feature engineering, and model selection, the final **CatBoostClassifier** achieves strong predictive performance, making it a reliable solution for fault detection tasks.
 
 --- 
-
-Feel free to customize this README further to include additional details specific to your implementation (e.g., links to datasets, example outputs, or visualizations).
