@@ -115,16 +115,9 @@ The **CatBoostClassifier** is selected as the final model based on its superior 
 
 ## **How to Run the Project**
 
-1. Clone the repository and install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+1. Open the attached Python notebook (.ipynb) in Kaggle.
 
-2. Place the dataset files (`train.csv`, `test.csv`, `sample_submission.csv`) in the appropriate directory.
-
-3. Run the Jupyter Notebook or Python script to execute the workflow.
-
-4. The final predictions will be saved in a submission file in the required format.
+2. Run all code blocks.
 
 ---
 
