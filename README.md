@@ -101,6 +101,22 @@ The **CatBoostClassifier** is selected as the final model based on its superior 
 
 ---
 
+### **9. Model Evaluation**
+The final model's performance is evaluated using various metrics:
+- **ROC AUC Scores**: Individual and average ROC AUC scores for each defect category.
+- **Confusion Matrices**: Detailed analysis of true positives, false positives, true negatives, and false negatives.
+- **Feature Importance**: Analysis of the most influential features for each defect category.
+
+---
+
+### **10. Submission**
+The final predictions are prepared for submission:
+- **Probability Thresholds**: Optimizing probability thresholds for each defect category.
+- **Submission File**: Creating a properly formatted submission file with predictions for all 7 defect categories.
+- **Final Score**: Calculating the final average ROC AUC score across all defect categories.
+
+---
+
 ## **Technologies Used**
 
 - **Python**: Primary programming language for the project.
